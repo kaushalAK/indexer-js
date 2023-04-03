@@ -1,2 +1,3 @@
-# indexer-js
-Small attempt to index transactions using web3.js and node
+# coinshift
+
+This project aims at downloading and indexing transactions on Ethereum network.
